@@ -1,0 +1,96 @@
+Bahubali ko kisne mara?
+SS. rajamouli
+bhallal dev
+kattapa
+rajmata
+C
+150
+25
+Taj Mahal kaha sthit hai?
+Mumbai
+Agra
+Delhi
+Hyderabad
+B
+200
+25
+Bharat ke pratham rashtrapati kaun the?
+Jawaharlal Nehru
+Mahatma Gandhi
+Dr. Rajendra Prasad
+Subhash Chandra Bose
+C
+300
+30
+Light year kiski unit hai?
+Time
+Speed
+Distance
+Mass
+C
+400
+30
+Computer ka full form kya hai?
+Common Operating Machine Purposely Used for Technological and Educational Research  
+Central Organized Machine Programmed Under Research  
+Control Operating Machine Program Used for Research  
+None of the above
+A
+500
+30
+Mangalyaan kis desh ka mission tha?
+USA
+China
+India
+Russia
+C
+600
+35
+World War 2 kis saal khatam hua tha?
+1939
+1942
+1945
+1950
+C
+700
+35
+Internet ka avishkar kisne kiya tha?
+Bill Gates
+Tim Berners-Lee
+Steve Jobs
+Elon Musk
+B
+800
+35
+Human body me kitni haddiyan hoti hain?
+206
+210
+201
+250
+A
+900
+40
+Ramayan ke rachayita kaun the?
+Valmiki
+Ved Vyas
+Tulsidas
+Kalidas
+A
+1000
+40
+Olympics 2020 kis desh me huye the?
+USA
+China
+Japan
+Germany
+C
+1100
+45
+DNA ka full form kya hai?
+Deoxyribonucleic Acid  
+Di-Ribo Nucleic Acid  
+Double Nucleic Atom  
+None of the above
+A
+1200
+45
